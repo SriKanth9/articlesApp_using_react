@@ -1,2 +1,1 @@
-# articlesApp_using_react
-Created with CodeSandbox
+This was developed with create React App
